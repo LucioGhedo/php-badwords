@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+}
+h2 {
+    font-size: 40px;
+    color: green;
+}
+p {
+    font-size: 33px;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 15px;
+    color: red;
+}
+.response {
+    font-weight: 900;
+    color: black;
+}
+div {
+    color: coral;
+    font-size: 25px;
+}
