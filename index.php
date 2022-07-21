@@ -18,7 +18,7 @@
         e ognun si considerasse suo fratello,
         ci sarebbe meno pensieri e meno pene
         e il mondo ne sarebbe assai più bello.';
-        $responseText = 'bravo bravo, noi condividiamo. ma ora siamo davanti alla Corte d’Assise e lei è imputato di sedici omicidi';
+        $responseText = 'bravo bravo, noi condividiamo. ma ora siamo davanti alla Corte d’Assise e lei è imputato di sedici omicidi, allora vorrei ricordarle, che lei di questo si deve occupare';
     ?>
     <h2>TESTO ORIGINALE</h2>
     <p>
